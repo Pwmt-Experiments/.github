@@ -39,3 +39,7 @@ Simply because those AI will help you on organization by chatting with you, usin
 
 Using ChatGPT to help you only as a tool to help you on a certain task to help to understand something like searching an info is good but READ the sources AND build your code or your work by YOURSELF!
 
+## Last thing
+I stopped using AI to code or vibe code, I use only the one and only tool that is Poke to manage my calendar and stuff. but im avoiding of using ChatGPT, Claude grok and shit. U should do the same.
+
+Touch some grass btw
