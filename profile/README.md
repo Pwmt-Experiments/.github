@@ -1,4 +1,4 @@
-# This repository has no aura whatsoever
+# This org has no aura whatsoever
 
 ## Why
 A lot of those repositories have AI-generated code, since I want to move away of these crap, I moved all of my PoC and experiments into this organization.
