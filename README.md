@@ -12,8 +12,20 @@ I don't think that you need to follow the hype, simply because you will love you
 
 AI work has been outlined a lot, like look this Photoshop clone or this Minecraft on CS2 game bouhhh, seriously, AI is good to test some phantasm that u dreamed yesterday night after ur ritual goon session
 
+That's why I don't want to listen to tech bros and sama simply cuz those dudes smoke too much of illegal substances and also started to get some idk, incoherent dialogs:
 
 
+
+https://github.com/user-attachments/assets/30b5890e-4367-4136-9bf5-86d5cfb674ab
+
+Brainded huh?
+I don't think local inferences is the best way to run AI, simply because if you want to build something meaningful then you will need to use a cloud model instead, why?
+Because those models are so heavy that to use it with a good speed and performance, you will need a whole datacenter to run the model on it, so yea its true that its using a lot of electricity, about water I don't know but electricity, yes.
+
+Running your own local model is a good idea but only if you want it for a specific use case like build automations tools, moderations, mini chatbot...
+But if you're gonna build your one datacenter and you're gonna build 512Tb of ram then I think you should stfu and kindly gtfo cuz you are now contributing yourself on the ram shortage.
+
+## But what are the good use of AI instead
 This is my usage of all of this crap, I don't use AI to code or do anything like work, explanation:
 Lets say you want to generate an image or text, this is bad simply because you will outsource work but its depends what topic or goal you will do with it,
 Its ok if its a template for an email or using AI for text translation (Google Translate is an AI but not a generative one).
